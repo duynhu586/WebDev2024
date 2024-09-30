@@ -10,7 +10,7 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: Lý Nhật Huy
-* ID: 22BI13191
+* Name: Nguyen Nhu Duy
+* ID: 22BI13123
 * Group ID: 2
 * Project Name: Movie Review Platform
